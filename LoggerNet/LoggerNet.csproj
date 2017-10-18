@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <RootNamespace>Pawotter.LoggerNet</RootNamespace>
+    <ReleaseVersion>1.0.0</ReleaseVersion>
+  </PropertyGroup>
+
+</Project>
