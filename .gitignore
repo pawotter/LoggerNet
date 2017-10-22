@@ -41,3 +41,7 @@ Thumbs.db
 *.dotCover
 
 project.lock.json
+
+*.nuspec
+*.nupkg
+
