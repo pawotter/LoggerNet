@@ -42,6 +42,5 @@ Thumbs.db
 
 project.lock.json
 
-*.nuspec
 *.nupkg
 
